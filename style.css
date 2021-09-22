@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(20, 114, 98, 0.678);
+  color: black;
+  text-align: center;
+}
+.menor {
+  color: rgb(119, 0, 0);
+}
+.mayor {
+  color: gold;
+}
+button {
+  margin: 0px 0.5rem;
+}
